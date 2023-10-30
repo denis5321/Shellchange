@@ -1,7 +1,7 @@
 # Shellchange
 Shellchange - это утилита, которая можеть быстро сменить графическую оболочку без перезагрузки.
 Она работает путём изменения ключа `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell` на что-то другое.
-	![Ключ Shell в реестре](https://raw.githubusercontent.com/denis5321/Shellchange/main/shellreg.png)
+![Ключ Shell в реестре](https://raw.githubusercontent.com/denis5321/Shellchange/main/shellreg.png)
 Пока эта программа может только сменить оболочку на `cmd` (командную строку) и обратно.
 Вот она в действии: *(извините за графические глюки, просто я это снимал и редактировал с ВМ)*
 ![Shellchange в действии](https://raw.githubusercontent.com/denis5321/Shellchange/main/shellchange_in_action.gif)
